@@ -9,5 +9,16 @@
         <item>Streaming or other Subscriptions</item>
         <item>Gas</item>
         <item>Other Misc. Monthly Expenses</item>
+        <item>Monthly Net Pay</item>
+    </string-array>
+    <string-array name="desc">
+        <item>Enter the amount of Rent/Mortgage</item>
+        <item>Enter the amount of Car Payment</item>
+        <item>Enter the amount of Car Insurance</item>
+        <item>Enter the amount of Estimated Grocery Expenses</item>
+        <item>Enter the amount of Streaming or other Subscriptions</item>
+        <item>Enter the amount of Gas</item>
+        <item>Enter the amount of Other Misc. Monthly Expenses</item>
+        <item>Enter your Monthly Net Pay</item>
     </string-array>
 </resources>
