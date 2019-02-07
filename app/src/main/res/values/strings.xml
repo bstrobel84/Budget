@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Budget</string>
+
+    <string-array name="bills">
+        <item>Rent/Mortgage</item>
+        <item>Car Payment</item>
+        <item>Car Insurance</item>
+        <item>Estimated Grocery Expenses</item>
+        <item>Streaming or other Subscriptions</item>
+        <item>Gas</item>
+        <item>Other Misc. Monthly Expenses</item>
+    </string-array>
+</resources>
